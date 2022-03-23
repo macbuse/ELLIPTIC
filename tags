@@ -4,39 +4,21 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
-g2	.ipynb_checkpoints/bak-checkpoint.py	/^g2 = -5 + 3j$/;"	v
-g2	.ipynb_checkpoints/bak-checkpoint.py	/^g2 = 5 + 3j$/;"	v
-g2	.ipynb_checkpoints/bak-checkpoint.py	/^g2 = 5 - 3j$/;"	v
 g2	bak.py	/^g2 = -5 + 3j$/;"	v
 g2	bak.py	/^g2 = 5 + 3j$/;"	v
 g2	bak.py	/^g2 = 5 - 3j$/;"	v
-g3	.ipynb_checkpoints/bak-checkpoint.py	/^g3 = 2 + 7j$/;"	v
-g3	.ipynb_checkpoints/bak-checkpoint.py	/^g3 = 2 - 7j$/;"	v
-g3	.ipynb_checkpoints/bak-checkpoint.py	/^g3 = 5 + 3j$/;"	v
-g3	.ipynb_checkpoints/bak-checkpoint.py	/^g3 = 5 - 3j$/;"	v
 g3	bak.py	/^g3 = 2 + 7j$/;"	v
 g3	bak.py	/^g3 = 2 - 7j$/;"	v
 g3	bak.py	/^g3 = 5 + 3j$/;"	v
 g3	bak.py	/^g3 = 5 - 3j$/;"	v
-p_weierstrass_from_g2_g3	.ipynb_checkpoints/bak-checkpoint.py	/^def p_weierstrass_from_g2_g3(g2, g3, derivative = 0):$/;"	f
-p_weierstrass_from_g2_g3	.ipynb_checkpoints/weierstrassElliptic-checkpoint.py	/^def p_weierstrass_from_g2_g3(g2, g3, derivative = 0):$/;"	f
 p_weierstrass_from_g2_g3	bak.py	/^def p_weierstrass_from_g2_g3(g2, g3, derivative = 0):$/;"	f
 p_weierstrass_from_g2_g3	weierstrassElliptic.py	/^def p_weierstrass_from_g2_g3(g2, g3, derivative = 0):$/;"	f
-p_weierstrass_from_tau	.ipynb_checkpoints/bak-checkpoint.py	/^def p_weierstrass_from_tau(tau):$/;"	f
-p_weierstrass_from_tau	.ipynb_checkpoints/weierstrassElliptic-checkpoint.py	/^def p_weierstrass_from_tau(tau):$/;"	f
 p_weierstrass_from_tau	bak.py	/^def p_weierstrass_from_tau(tau):$/;"	f
 p_weierstrass_from_tau	weierstrassElliptic.py	/^def p_weierstrass_from_tau(tau):$/;"	f
-p_weierstrass_from_w1_w2	.ipynb_checkpoints/bak-checkpoint.py	/^def p_weierstrass_from_w1_w2(w1, w2):$/;"	f
-p_weierstrass_from_w1_w2	.ipynb_checkpoints/weierstrassElliptic-checkpoint.py	/^def p_weierstrass_from_w1_w2(w1, w2):$/;"	f
 p_weierstrass_from_w1_w2	bak.py	/^def p_weierstrass_from_w1_w2(w1, w2):$/;"	f
 p_weierstrass_from_w1_w2	weierstrassElliptic.py	/^def p_weierstrass_from_w1_w2(w1, w2):$/;"	f
-sigma_weierstrass	.ipynb_checkpoints/bak-checkpoint.py	/^def sigma_weierstrass(g2, g3):$/;"	f
 sigma_weierstrass	bak.py	/^def sigma_weierstrass(g2, g3):$/;"	f
-w1	.ipynb_checkpoints/bak-checkpoint.py	/^w1 = 1.0 + 4.0j$/;"	v
 w1	bak.py	/^w1 = 1.0 + 4.0j$/;"	v
-w2	.ipynb_checkpoints/bak-checkpoint.py	/^w2 = 1.0 + 15.0j$/;"	v
 w2	bak.py	/^w2 = 1.0 + 15.0j$/;"	v
-z	.ipynb_checkpoints/bak-checkpoint.py	/^z = 1+1j$/;"	v
 z	bak.py	/^z = 1+1j$/;"	v
-zeta_weierstrass	.ipynb_checkpoints/bak-checkpoint.py	/^def zeta_weierstrass(g2, g3):$/;"	f
 zeta_weierstrass	bak.py	/^def zeta_weierstrass(g2, g3):$/;"	f
